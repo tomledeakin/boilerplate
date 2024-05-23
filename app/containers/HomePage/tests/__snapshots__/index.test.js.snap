@@ -10,7 +10,7 @@ exports[`<HomePage /> should render and match the snapshot 1`] = `
         class="H2-egphza-0 HsCXl"
       >
         <span>
-          Start your next react project in secondssssssssssssss
+          Start your next react project in seconds
         </span>
       </h2>
       <p>
