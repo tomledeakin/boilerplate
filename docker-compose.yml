@@ -4,5 +4,5 @@ services:
     container_name: "boilerplate_container"
     image: "tomledeakin/boilerplate:latest"
     ports:
-      - target: 80
+      - target: 3000
         published: 3000
