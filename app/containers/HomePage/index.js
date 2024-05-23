@@ -69,6 +69,9 @@ export function HomePage({
       <div>
         <CenteredSection>
           <H2>
+            <div>
+              test jenkins
+            </div>
             <FormattedMessage {...messages.startProjectHeader} />
           </H2>
           <p>
