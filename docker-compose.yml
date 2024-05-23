@@ -2,7 +2,7 @@ version: "3.2"
 services:
   web:
     container_name: "boilerplate_container"
-    image: "anhlt2710/boilerplate:latest"
+    image: "tomledeakin/boilerplate:latest"
     ports:
       - target: 80
         published: 3000
